@@ -1,0 +1,19 @@
+GIT
+  remote: git://github.com/rubymotion/BubbleWrap.git
+  revision: 82db68ddac22dff379f1127a8d9b33f51832d09d
+  specs:
+    bubble-wrap (1.1.4)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rubymotion_generators (0.0.4)
+      thor (~> 0.15)
+    thor (0.16.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bubble-wrap!
+  rubymotion_generators
